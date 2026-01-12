@@ -1,3 +1,3 @@
-js from very basic to advance 
-# first variable decelerations
-# type castings 
+#js from very basic to advance 
+first variable decelerations
+ type castings 
